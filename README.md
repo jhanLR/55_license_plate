@@ -79,7 +79,8 @@ python test.py 	--batch_size 16
     		--name 'license_plate'
 ```
 
-
+#### 상세 코드 사용 가이드
+* Guide.pdf 참조
 
 ## Dependency
 * 아래는 특정 버전을 위한 패키지를 표시
