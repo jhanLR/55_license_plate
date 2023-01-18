@@ -1,0 +1,5 @@
+classes= 1
+train  = /home/jhan/laonroad/deeppart/darknet-LR/car_plate/train_images.txt
+valid  = /home/jhan/laonroad/deeppart/darknet-LR/car_plate/val_images.txt
+names = /home/jhan/laonroad/deeppart/darknet-LR/car_plate/data_car_plate.names
+backup = /home/jhan/laonroad/deeppart/darknet-LR/car_plate/backup_cp

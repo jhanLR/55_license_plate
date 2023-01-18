@@ -1,0 +1,3 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/NIA_OCR/input/19두3117.jpg	x8x                      

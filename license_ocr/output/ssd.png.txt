@@ -1,0 +1,6 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/ssd.png	52x                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/ssd.png	xx                       

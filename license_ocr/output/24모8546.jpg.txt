@@ -1,0 +1,63 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24모8546.jpg	244866x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24모8546.jpg	244866x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24모8546.jpg	244866x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24모8546.jpg	244866x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24모8546.jpg	244866x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24모8546.jpg	244866x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24모8546.jpg	244866x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24모8546.jpg	244866x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24모8546.jpg	244866x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24모8546.jpg	244866x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24모8546.jpg	244866x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24모8546.jpg	244866x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24모8546.jpg	244866x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24모8546.jpg	244866x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24모8546.jpg	244866x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24모8546.jpg	244866x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24모8546.jpg	244866x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24모8546.jpg	244866x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24모8546.jpg	244866x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24모8546.jpg	244866x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24모8546.jpg	244866x                  

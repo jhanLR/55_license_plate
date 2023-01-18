@@ -1,0 +1,96 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/45구.jpg	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/45구.jpg	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/45구.jpg	15저5174                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/45구.jpg	15저5174                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/45구.jpg	15저5174                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/45구.jpg	15저5174                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/45구.jpg	x                        
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/45구.jpg	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/45구.jpg	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/45구.jpg	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/45구.jpg	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/45구.jpg	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/45구.jpg	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/45구.jpg	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/45구.jpg	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/45구.jpg	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/45구.jpg	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/45구.jpg	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/45구.jpg	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/45구.jpg   	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/45구.jpg   	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/45구.jpg   	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/45구.jpg   	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/45구.jpg   	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/45구.jpg   	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/45구.jpg   	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/45구.jpg   	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/45구.jpg   	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/45구.jpg   	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/45구.jpg   	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/45구.jpg   	45구                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/45구.jpg   	45구                      

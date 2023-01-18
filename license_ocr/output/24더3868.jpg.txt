@@ -1,0 +1,63 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24더3868.jpg	x                        
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24더3868.jpg	x                        
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24더3868.jpg	x                        
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24더3868.jpg	x                        
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24더3868.jpg	x                        
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24더3868.jpg	x                        
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24더3868.jpg	x                        
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24더3868.jpg	x                        
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24더3868.jpg	xx                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24더3868.jpg	xx                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24더3868.jpg	xx                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24더3868.jpg	xx                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24더3868.jpg	xx                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24더3868.jpg	xx                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24더3868.jpg	xx                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24더3868.jpg	xx                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24더3868.jpg	xx                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24더3868.jpg	xx                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24더3868.jpg	xx                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24더3868.jpg	xx                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24더3868.jpg	xx                       

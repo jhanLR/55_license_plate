@@ -1,0 +1,3 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/NIA_OCR/input/05더1638.jpg	05어어                     

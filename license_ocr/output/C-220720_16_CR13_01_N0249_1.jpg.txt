@@ -1,0 +1,3 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/crop_images_j/C-220720_16_CR13_01_N0249_1.jpg	169고                     

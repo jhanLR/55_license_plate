@@ -1,0 +1,96 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/143조.jpg	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/143조.jpg	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/143조.jpg	143너3305                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/143조.jpg	143너3305                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/143조.jpg	143너3305                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/143조.jpg	143너3305                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/143조.jpg	x                        
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/143조.jpg	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/143조.jpg	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/143조.jpg	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/143조.jpg	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/143조.jpg	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/143조.jpg	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/143조.jpg	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/143조.jpg	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/143조.jpg	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/143조.jpg	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/143조.jpg	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/143조.jpg	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/143조.jpg  	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/143조.jpg  	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/143조.jpg  	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/143조.jpg  	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/143조.jpg  	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/143조.jpg  	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/143조.jpg  	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/143조.jpg  	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/143조.jpg  	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/143조.jpg  	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/143조.jpg  	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/143조.jpg  	143조                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/143조.jpg  	143조                     

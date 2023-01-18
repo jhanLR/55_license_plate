@@ -1,0 +1,99 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/333지.jpg	333저                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/333지.jpg	333저                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/333지.jpg	3334937                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/333지.jpg	3334937                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/333지.jpg	3334937                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/333지.jpg	3334937                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/333지.jpg	x                        
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/333지.jpg	333x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/333지.jpg	333x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/333지.jpg	333x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/333지.jpg	333저                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/333지.jpg	333저                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/333지.jpg	333저                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/333지.jpg	333저                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/333지.jpg	333저                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/333지.jpg	333저                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/333지.jpg	333저                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/333지.jpg	333저                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/333지.jpg	333저                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/333지.jpg  	333저                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/333지.jpg  	333저                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/333지.jpg  	333저                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/333지.jpg  	333저                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/333지.jpg  	333저                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/333지.jpg  	333저                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/333지.jpg  	333저                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/333지.jpg  	333저                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/333지.jpg  	333저                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/333지.jpg  	333저                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/333지.jpg  	333저                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/333지.jpg  	333저                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/333지.jpg  	333저                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/t/333지.jpg	333저                     

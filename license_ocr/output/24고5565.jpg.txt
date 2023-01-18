@@ -1,0 +1,63 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24고5565.jpg	4xxx                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24고5565.jpg	4xxx                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24고5565.jpg	4xxx                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24고5565.jpg	4xxx                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24고5565.jpg	4xxx                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24고5565.jpg	4xxx                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24고5565.jpg	4xxx                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24고5565.jpg	4xxx                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고5565.jpg	4x5x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고5565.jpg	4x5x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고5565.jpg	4x5x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고5565.jpg	4x5x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고5565.jpg	4x5x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고5565.jpg	4x5x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고5565.jpg	4x5x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고5565.jpg	4x5x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고5565.jpg	4x5x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고5565.jpg	4x5x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고5565.jpg	4x5x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고5565.jpg	4x5x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고5565.jpg	4x5x                     

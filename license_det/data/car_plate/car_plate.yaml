@@ -1,0 +1,10 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: ./data/car_plate/train_images.txt
+val: ./data/car_plate/valid_images.txt
+test: ./data/car_plate/test_images.txt
+
+# number of classes
+nc: 1
+
+# class names
+names: ['License_Plate']

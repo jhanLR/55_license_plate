@@ -1,0 +1,96 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/12수.jpg	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/12수.jpg	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/12수.jpg	1291257                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/12수.jpg	1291257                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/12수.jpg	1291257                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/12수.jpg	1291257                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/12수.jpg	x                        
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/12수.jpg	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/12수.jpg	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/12수.jpg	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/12수.jpg	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/12수.jpg	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/12수.jpg	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/12수.jpg	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/12수.jpg	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/12수.jpg	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/12수.jpg	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/12수.jpg	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/12수.jpg	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/12수.jpg   	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/12수.jpg   	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/12수.jpg   	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/12수.jpg   	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/12수.jpg   	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/12수.jpg   	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/12수.jpg   	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/12수.jpg   	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/12수.jpg   	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/12수.jpg   	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/12수.jpg   	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/12수.jpg   	12수                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/12수.jpg   	12수                      

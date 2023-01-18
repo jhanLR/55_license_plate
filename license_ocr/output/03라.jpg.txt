@@ -1,0 +1,96 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/03라.jpg	03x                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/03라.jpg	03x                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/03라.jpg	0033303                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/03라.jpg	0033303                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/03라.jpg	0033303                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/03라.jpg	0033303                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/03라.jpg	x                        
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/03라.jpg	03x                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/03라.jpg	03x                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/03라.jpg	03x                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/03라.jpg	03라                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/03라.jpg	03라                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/03라.jpg	03라                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/03라.jpg	03라                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/03라.jpg	03라                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/03라.jpg	03라                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/03라.jpg	03라                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/03라.jpg	03라                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/03라.jpg	03라                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/03라.jpg   	03라                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/03라.jpg   	03라                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/03라.jpg   	03라                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/03라.jpg   	03라                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/03라.jpg   	03라                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/03라.jpg   	03라                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/03라.jpg   	03라                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/03라.jpg   	03라                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/03라.jpg   	03라                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/03라.jpg   	03라                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/03라.jpg   	03라                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/03라.jpg   	03라                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/03라.jpg   	03라                      

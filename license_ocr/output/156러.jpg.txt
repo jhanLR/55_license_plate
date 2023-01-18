@@ -1,0 +1,96 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/156러.jpg	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/156러.jpg	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/156러.jpg	15563604                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/156러.jpg	15563604                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/156러.jpg	15563604                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/156러.jpg	15563604                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/156러.jpg	x                        
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/156러.jpg	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/156러.jpg	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/156러.jpg	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/156러.jpg	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/156러.jpg	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/156러.jpg	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/156러.jpg	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/156러.jpg	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/156러.jpg	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/156러.jpg	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/156러.jpg	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/156러.jpg	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/156러.jpg  	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/156러.jpg  	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/156러.jpg  	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/156러.jpg  	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/156러.jpg  	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/156러.jpg  	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/156러.jpg  	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/156러.jpg  	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/156러.jpg  	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/156러.jpg  	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/156러.jpg  	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/156러.jpg  	156러                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/156러.jpg  	156러                     

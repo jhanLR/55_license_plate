@@ -1,0 +1,63 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24호2428.jpg	2448로                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24호2428.jpg	2448로                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24호2428.jpg	2448로                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24호2428.jpg	2448로                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24호2428.jpg	2448로                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24호2428.jpg	2448로                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24호2428.jpg	2448로                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24호2428.jpg	2448로                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24호2428.jpg	2448로                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24호2428.jpg	2448로                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24호2428.jpg	2448로                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24호2428.jpg	2448로                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24호2428.jpg	2448로                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24호2428.jpg	2448로                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24호2428.jpg	2448로                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24호2428.jpg	2448로                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24호2428.jpg	2448로                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24호2428.jpg	2448로                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24호2428.jpg	2448로                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24호2428.jpg	2448로                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24호2428.jpg	2448로                    

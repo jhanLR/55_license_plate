@@ -1,0 +1,63 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25마0153.jpg	25x03                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25마0153.jpg	25x03                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25마0153.jpg	25x03                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25마0153.jpg	25x03                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25마0153.jpg	25x03                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25마0153.jpg	25x03                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25마0153.jpg	25x03                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25마0153.jpg	25x03                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25마0153.jpg	25x03                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25마0153.jpg	25x03                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25마0153.jpg	25x03                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25마0153.jpg	25x03                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25마0153.jpg	25x03                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25마0153.jpg	25x03                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25마0153.jpg	25x03                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25마0153.jpg	25x03                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25마0153.jpg	25x03                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25마0153.jpg	25x03                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25마0153.jpg	25x03                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25마0153.jpg	25x03                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25마0153.jpg	25x03                    

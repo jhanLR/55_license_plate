@@ -1,0 +1,1 @@
+python train.py --train_data ./input/lmdb_train --valid_data ./input/lmdb_valid --Transformation TPS --FeatureExtraction ResNet --SequenceModeling BiLSTM --Prediction Attn

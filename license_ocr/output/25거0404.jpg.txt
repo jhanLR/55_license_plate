@@ -1,0 +1,63 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25거0404.jpg	1253444x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25거0404.jpg	1253444x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25거0404.jpg	1253444x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25거0404.jpg	1253444x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25거0404.jpg	1253444x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25거0404.jpg	1253444x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25거0404.jpg	1253444x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25거0404.jpg	1253444x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25거0404.jpg	1253444x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25거0404.jpg	1253444x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25거0404.jpg	1253444x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25거0404.jpg	1253444x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25거0404.jpg	1253444x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25거0404.jpg	1253444x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25거0404.jpg	1253444x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25거0404.jpg	1253444x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25거0404.jpg	1253444x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25거0404.jpg	1253444x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25거0404.jpg	1253444x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25거0404.jpg	1253444x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25거0404.jpg	1253444x                 

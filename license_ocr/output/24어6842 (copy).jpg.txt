@@ -1,0 +1,60 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24어6842 (copy).jpg	x20x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24어6842 (copy).jpg	x20x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24어6842 (copy).jpg	x20x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24어6842 (copy).jpg	x20x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24어6842 (copy).jpg	x20x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24어6842 (copy).jpg	x20x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24어6842 (copy).jpg	x20x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24어6842 (copy).jpg	x20x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24어6842 (copy).jpg	x20x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24어6842 (copy).jpg	x20x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24어6842 (copy).jpg	x20x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24어6842 (copy).jpg	x20x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24어6842 (copy).jpg	x20x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24어6842 (copy).jpg	x20x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24어6842 (copy).jpg	x20x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24어6842 (copy).jpg	x20x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24어6842 (copy).jpg	x20x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24어6842 (copy).jpg	x20x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24어6842 (copy).jpg	x20x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24어6842 (copy).jpg	x20x                     

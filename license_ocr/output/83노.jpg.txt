@@ -1,0 +1,96 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/83노.jpg	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/83노.jpg	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/83노.jpg	83보8371                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/83노.jpg	83보8371                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/83노.jpg	83보8371                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/83노.jpg	83보8371                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/83노.jpg	x                        
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/83노.jpg	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/83노.jpg	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/83노.jpg	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/83노.jpg	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/83노.jpg	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/83노.jpg	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/83노.jpg	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/83노.jpg	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/83노.jpg	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/83노.jpg	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/83노.jpg	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/83노.jpg	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/83노.jpg   	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/83노.jpg   	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/83노.jpg   	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/83노.jpg   	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/83노.jpg   	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/83노.jpg   	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/83노.jpg   	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/83노.jpg   	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/83노.jpg   	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/83노.jpg   	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/83노.jpg   	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/83노.jpg   	83노                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/83노.jpg   	83노                      

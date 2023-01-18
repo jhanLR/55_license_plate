@@ -1,0 +1,63 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24루5398.jpg	124x39x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24루5398.jpg	124x39x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24루5398.jpg	124x39x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24루5398.jpg	124x39x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24루5398.jpg	124x39x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24루5398.jpg	124x39x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24루5398.jpg	124x39x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24루5398.jpg	124x39x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24루5398.jpg	124x38x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24루5398.jpg	124x38x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24루5398.jpg	124x38x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24루5398.jpg	124x38x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24루5398.jpg	124x38x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24루5398.jpg	124x38x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24루5398.jpg	124x38x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24루5398.jpg	124x38x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24루5398.jpg	124x38x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24루5398.jpg	124x38x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24루5398.jpg	124x38x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24루5398.jpg	124x38x                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24루5398.jpg	124x38x                  

@@ -1,0 +1,63 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24우1842.jpg	x0                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24우1842.jpg	x0                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24우1842.jpg	x0                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24우1842.jpg	x0                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24우1842.jpg	x0                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24우1842.jpg	x0                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24우1842.jpg	x0                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24우1842.jpg	x0                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24우1842.jpg	x0                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24우1842.jpg	x0                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24우1842.jpg	x0                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24우1842.jpg	x0                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24우1842.jpg	x0                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24우1842.jpg	x0                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24우1842.jpg	x0                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24우1842.jpg	x0                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24우1842.jpg	x0                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24우1842.jpg	x0                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24우1842.jpg	x0                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24우1842.jpg	x0                       
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24우1842.jpg	x0                       

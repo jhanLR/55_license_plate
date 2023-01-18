@@ -1,0 +1,96 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/223노.jpg	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/223노.jpg	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/223노.jpg	223너3502                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/223노.jpg	223너3502                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/223노.jpg	223너3502                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/223노.jpg	223너3502                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/223노.jpg	1                        
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/223노.jpg	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/223노.jpg	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/223노.jpg	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/223노.jpg	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/223노.jpg	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/223노.jpg	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/223노.jpg	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/223노.jpg	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/223노.jpg	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/223노.jpg	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/223노.jpg	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/223노.jpg	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/223노.jpg  	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/223노.jpg  	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/223노.jpg  	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/223노.jpg  	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/223노.jpg  	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/223노.jpg  	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/223노.jpg  	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/223노.jpg  	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/223노.jpg  	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/223노.jpg  	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/223노.jpg  	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/223노.jpg  	223노                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/223노.jpg  	223노                     

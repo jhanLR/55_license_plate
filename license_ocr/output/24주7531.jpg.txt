@@ -1,0 +1,63 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24주7531.jpg	14x3x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24주7531.jpg	14x3x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24주7531.jpg	14x3x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24주7531.jpg	14x3x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24주7531.jpg	14x3x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24주7531.jpg	14x3x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24주7531.jpg	14x3x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24주7531.jpg	14x3x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24주7531.jpg	14x3x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24주7531.jpg	14x3x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24주7531.jpg	14x3x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24주7531.jpg	14x3x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24주7531.jpg	14x3x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24주7531.jpg	14x3x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24주7531.jpg	14x3x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24주7531.jpg	14x3x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24주7531.jpg	14x3x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24주7531.jpg	14x3x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24주7531.jpg	14x3x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24주7531.jpg	14x3x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24주7531.jpg	14x3x                    

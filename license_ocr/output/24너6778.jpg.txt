@@ -1,0 +1,63 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24너6778.jpg	22478x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24너6778.jpg	22478x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24너6778.jpg	22478x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24너6778.jpg	22478x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24너6778.jpg	22478x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24너6778.jpg	22478x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24너6778.jpg	22478x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24너6778.jpg	22478x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24너6778.jpg	22478x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24너6778.jpg	22478x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24너6778.jpg	22478x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24너6778.jpg	22478x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24너6778.jpg	22478x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24너6778.jpg	22478x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24너6778.jpg	22478x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24너6778.jpg	22478x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24너6778.jpg	22478x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24너6778.jpg	22478x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24너6778.jpg	22478x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24너6778.jpg	22478x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24너6778.jpg	22478x                   

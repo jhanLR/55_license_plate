@@ -1,0 +1,63 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24고3989.jpg	22439x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24고3989.jpg	22439x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24고3989.jpg	22439x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24고3989.jpg	22439x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24고3989.jpg	22439x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24고3989.jpg	22439x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24고3989.jpg	22439x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24고3989.jpg	22439x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고3989.jpg	22439                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고3989.jpg	22439                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고3989.jpg	22439                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고3989.jpg	22439                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고3989.jpg	22439                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고3989.jpg	22439                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고3989.jpg	22439                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고3989.jpg	22439                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고3989.jpg	22439                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고3989.jpg	22439                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고3989.jpg	22439                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고3989.jpg	22439                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24고3989.jpg	22439                    

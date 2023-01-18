@@ -1,0 +1,96 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/26보.jpg	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/26보.jpg	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/26보.jpg	26보3832                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/26보.jpg	26보3832                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/26보.jpg	26보3832                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+/home/jhan/laonroad/deeppart/car-lincenseplateocr-main/input/car_plate_label_data/test_images2/26보.jpg	26보3832                  
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/26보.jpg	1                        
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/26보.jpg	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/26보.jpg	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/26보.jpg	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/26보.jpg	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/26보.jpg	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/26보.jpg	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/26보.jpg	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/26보.jpg	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/26보.jpg	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/26보.jpg	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/26보.jpg	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/26보.jpg	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/26보.jpg   	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/26보.jpg   	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/26보.jpg   	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/26보.jpg   	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/26보.jpg   	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/26보.jpg   	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/26보.jpg   	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/26보.jpg   	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/26보.jpg   	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/26보.jpg   	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/26보.jpg   	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/26보.jpg   	26보                      
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/26보.jpg   	26보                      

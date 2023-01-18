@@ -1,0 +1,63 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25도0294.jpg	2554x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25도0294.jpg	2554x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25도0294.jpg	2554x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25도0294.jpg	2554x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25도0294.jpg	2554x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25도0294.jpg	2554x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25도0294.jpg	2554x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25도0294.jpg	2554x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25도0294.jpg	254x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25도0294.jpg	254x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25도0294.jpg	254x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25도0294.jpg	254x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25도0294.jpg	254x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25도0294.jpg	254x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25도0294.jpg	254x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25도0294.jpg	254x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25도0294.jpg	254x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25도0294.jpg	254x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25도0294.jpg	254x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25도0294.jpg	254x                     
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25도0294.jpg	254x                     

@@ -1,0 +1,63 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24가6874.jpg	24674x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24가6874.jpg	24674x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24가6874.jpg	24674x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24가6874.jpg	24674x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24가6874.jpg	24674x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24가6874.jpg	24674x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24가6874.jpg	24674x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24가6874.jpg	24674x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24가6874.jpg	24674x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24가6874.jpg	24674x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24가6874.jpg	24674x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24가6874.jpg	24674x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24가6874.jpg	24674x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24가6874.jpg	24674x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24가6874.jpg	24674x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24가6874.jpg	24674x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24가6874.jpg	24674x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24가6874.jpg	24674x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24가6874.jpg	24674x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24가6874.jpg	24674x                   
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24가6874.jpg	24674x                   

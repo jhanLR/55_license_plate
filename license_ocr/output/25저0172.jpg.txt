@@ -1,0 +1,63 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25저0172.jpg	2572x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25저0172.jpg	2572x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25저0172.jpg	2572x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25저0172.jpg	2572x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25저0172.jpg	2572x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25저0172.jpg	2572x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25저0172.jpg	2572x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/25저0172.jpg	2572x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25저0172.jpg	2572x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25저0172.jpg	2572x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25저0172.jpg	2572x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25저0172.jpg	2572x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25저0172.jpg	2572x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25저0172.jpg	2572x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25저0172.jpg	2572x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25저0172.jpg	2572x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25저0172.jpg	2572x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25저0172.jpg	2572x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25저0172.jpg	2572x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25저0172.jpg	2572x                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/25저0172.jpg	2572x                    

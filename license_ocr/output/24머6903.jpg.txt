@@ -1,0 +1,63 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24머6903.jpg	12x4693x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24머6903.jpg	12x4693x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24머6903.jpg	12x4693x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24머6903.jpg	12x4693x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24머6903.jpg	12x4693x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24머6903.jpg	12x4693x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24머6903.jpg	12x4693x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24머6903.jpg	12x4693x                 
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24머6903.jpg	12x44693x                
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24머6903.jpg	12x44693x                
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24머6903.jpg	12x44693x                
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24머6903.jpg	12x44693x                
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24머6903.jpg	12x44693x                
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24머6903.jpg	12x44693x                
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24머6903.jpg	12x44693x                
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24머6903.jpg	12x44693x                
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24머6903.jpg	12x44693x                
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24머6903.jpg	12x44693x                
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24머6903.jpg	12x44693x                
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24머6903.jpg	12x44693x                
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24머6903.jpg	12x44693x                

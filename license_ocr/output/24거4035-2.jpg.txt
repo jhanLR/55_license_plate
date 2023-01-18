@@ -1,0 +1,63 @@
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24거4035-2.jpg	1x4xx                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24거4035-2.jpg	1x4xx                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24거4035-2.jpg	1x4xx                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24거4035-2.jpg	1x4xx                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24거4035-2.jpg	1x4xx                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24거4035-2.jpg	1x4xx                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24거4035-2.jpg	1x4xx                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/car_plate_label_data/test_images2/24거4035-2.jpg	1x4xx                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24거4035-2.jpg	1x4xx                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24거4035-2.jpg	1x4xx                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24거4035-2.jpg	1x4xx                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24거4035-2.jpg	1x4xx                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24거4035-2.jpg	1x4xx                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24거4035-2.jpg	1x4xx                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24거4035-2.jpg	1x4xx                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24거4035-2.jpg	1x4xx                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24거4035-2.jpg	1x4xx                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24거4035-2.jpg	1x4xx                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24거4035-2.jpg	1x4xx                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24거4035-2.jpg	1x4xx                    
+image_path               	predicted_labels         
+--------------------------------------------------------------------------------
+./input/images/24거4035-2.jpg	1x4xx                    
