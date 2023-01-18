@@ -2,8 +2,8 @@
 
 ## 실행 방법
 
-##### 차량 번호 인식 모델
-Model	: Clova(TPS-ResNet-BiLSTM-Attn)
+#### 차량 번호 인식 모델
+Model	: Clova(TPS-ResNet-BiLSTM-Attn)<br>
 Task	: License plate Recognition 
 * train.py 실행
 ```
@@ -50,8 +50,8 @@ python test.py 	--eval_data ./input/lmdb_test
 --saved_model {학습 완료된 모델 정보 파일 경로}
 ```
 
-##### 차량 번호판 탐지 모델
-Model	: YOLO v4
+#### 차량 번호판 탐지 모델
+Model	: YOLO v4<br>
 Task	: License plate Detection
 * train.py 실행
 ```
@@ -103,7 +103,7 @@ lmdb >= 1.0.0
 
 
 ## Reference
-https://github.com/clovaai/deep-text-recognition-benchmark
+https://github.com/clovaai/deep-text-recognition-benchmark<br>
 https://github.com/WongKinYiu/PyTorch_YOLOv4
 
 ## License
